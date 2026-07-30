@@ -74,7 +74,7 @@ python Book-Review-System.py
 2. Browse or search for books.
 3. Select a book.
 4. Add your review and rating.
-5. Save the review to the SQLite database.
+5. Save the review to the MySQL database.
 6. View and manage stored reviews.
 
 ---
