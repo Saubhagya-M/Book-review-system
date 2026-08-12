@@ -191,4 +191,4 @@ Your support motivates further improvements and future open-source projects.
 
 ---
 
-### Made with ❤️ using Python and SQLite.
+### Made with ❤️ using Python and MySQL.
